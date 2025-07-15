@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=200&section=header&text=The%20only%20way%20to%20do%20great%20work%20-nl-is%20to%20love%20what%20you%20do.&fontSize=25&animation=twinkling)
 
-
-
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
+<p align="center"> 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Omprakash+Rawat;Full-Stack+%7C+ML+Engineer+%7C+Cloud+Enthusiast;Turning+ideas+into+code+%26+data+into+insights;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
+</p>
 
 <!-- Profile Picture and Intro -->
 <table align="center">
@@ -36,23 +33,20 @@
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,django,html,css,bootstrap,sqlite,mysql,mongodb,git,github,notion,aws,tensorflow,pytorch,figma,neovim,linux,postman,vscode&perline=8" />
 </p>
 
-
-
-
 ## 📖Learning
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,golang,aws,kafka,kubernetes,docker" />
 </p>
 
 ---
+
 <!-- About Section -->
 <p align="justify">
   I'm a <b>final-year BTech CS student</b>, with a passion for <b>Full-Stack Development</b>, <b>Data Science</b>, and <b>Machine Learning</b>. 🚀 <br><br>
   As a creative problem-solver, I love crafting technical solutions to real-world challenges — whether it's building sleek web apps or diving deep into data to uncover actionable insights. <br><br>
   When I'm not coding, you'll find me exploring <b>cloud tech</b>, reading <b>self-help books</b>, or absorbing lessons from visionary minds. 🌱
 </p>
-
-
 
 ## 🌈 About Me
 
@@ -64,8 +58,6 @@
 
 📚 Lifelong learner and enthusiastic reader of **self-help books**, driven by continuous growth and knowledge-sharing.
 
-
-
 ## 🚀 Projects
 
 ### 📌 [Roadmap](https://om762.pythonanywhere.com)
@@ -73,11 +65,11 @@
 A dynamic platform for **creating, sharing, and tracking learning roadmaps**. Designed with an intuitive UI to keep users motivated and focused on achieving their goals.  
 This is my personal favorite and most-used project!
 
-- 🧰 **Tech Stack**: Django, React, MySQL, HTML, CSS  
-- ✨ **Features**: Roadmap Builder, Progress Tracking, Search Functionality  
-- 🚀 **Status**: [Live](https://om762.pythonanywhere.com)  
-- ⏱️ **Dev Time**: 4 months of pure passion  
-- 🔗 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://om762.pythonanywhere.com)  
+- 🧰 **Tech Stack**: Django, React, MySQL, HTML, CSS
+- ✨ **Features**: Roadmap Builder, Progress Tracking, Search Functionality
+- 🚀 **Status**: [Live](https://om762.pythonanywhere.com)
+- ⏱️ **Dev Time**: 4 months of pure passion
+- 🔗 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://om762.pythonanywhere.com)
 - 🔗 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/om762/roadmap)
 
 ---
@@ -86,8 +78,8 @@ This is my personal favorite and most-used project!
 
 A full-featured **auction platform** enabling users to create listings and participate in live bidding sessions. Prioritizes clean design and robust backend functionality.
 
-- 🧰 **Tech Stack**: Django, HTML, CSS, JavaScript, SQLite  
-- ✨ **Features**: User Authentication, Live Bidding, Listing Management  
+- 🧰 **Tech Stack**: Django, HTML, CSS, JavaScript, SQLite
+- ✨ **Features**: User Authentication, Live Bidding, Listing Management
 - 🔗 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/om762/bidhub)
 
 ---
@@ -96,8 +88,8 @@ A full-featured **auction platform** enabling users to create listings and parti
 
 A data science project that performs **predictive modeling** and **data visualization** on agricultural commodity prices to generate actionable insights.
 
-- 🧰 **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly  
-- ✨ **Features**: Data Cleaning, Feature Engineering, Time Series Modeling  
+- 🧰 **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
+- ✨ **Features**: Data Cleaning, Feature Engineering, Time Series Modeling
 - 🔗 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/om762/Price_Agriculture_commodities)
 
 ---
@@ -106,30 +98,30 @@ A data science project that performs **predictive modeling** and **data visualiz
 
 An interactive AI-powered **Tic-Tac-Toe game** using the Minimax algorithm for unbeatable gameplay.
 
-- 🧰 **Tech Stack**: Python, Pygame  
-- ✨ **Features**: AI-driven gameplay, Interactive UI  
+- 🧰 **Tech Stack**: Python, Pygame
+- ✨ **Features**: AI-driven gameplay, Interactive UI
 - 🔗 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/om762/AI-using-Python/tree/main/Projects/Unit%200/tictactoe)
-
-
-
 
 ## 🔨 Skills
 
-### 🧑‍💻 Programming Languages  
+### 🧑‍💻 Programming Languages
+
 &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web Development  
+### 🌐 Web Development
+
 &nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Data Science & Machine Learning  
+### 📊 Data Science & Machine Learning
+
 &nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-F28C38?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -140,21 +132,26 @@ An interactive AI-powered **Tic-Tac-Toe game** using the Minimax algorithm for u
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗃️ Databases  
+### 🗃️ Databases
+
 &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
-### ⚙️ DevOps & Tools  
+### ⚙️ DevOps & Tools
+
 &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
 
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
 
 ## 📊 GitHub Stats
 
@@ -166,7 +163,6 @@ An interactive AI-powered **Tic-Tac-Toe game** using the Minimax algorithm for u
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om762&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" height="165">
 </p>
-
 
 ## 📬 Let's Connect!
 
@@ -181,8 +177,6 @@ An interactive AI-powered **Tic-Tac-Toe game** using the Minimax algorithm for u
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-
 
 ---
 
