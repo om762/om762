@@ -1,14 +1,16 @@
-<!-- Profile Banner -->
-<!-- <p align="center">
-  <img src="https://i.postimg.cc/fT9bfywL/DGU.jpg" alt="Profile Banner" width="100%" style="border-radius: 12px;">
-</p> -->
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=200&section=header&text=The%20only%20way%20to%20do%20great%20work%20-nl-is%20to%20love%20what%20you%20do.&fontSize=25&animation=twinkling)
 
 
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Omprakash+Rawat;Full-Stack+%7C+ML+Engineer+%7C+Cloud+Enthusiast;Turning+ideas+into+code+%26+data+into+insights;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+
 <!-- Profile Picture and Intro -->
 <table align="center">
   <tr>
