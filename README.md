@@ -45,7 +45,7 @@
 ---
 <!-- About Section -->
 <p align="justify">
-  I'm a <b>final-year BTech CS student</b> at <b>Sage University, Indore</b>, with a passion for <b>Full-Stack Development</b>, <b>Data Science</b>, and <b>Machine Learning</b>. 🚀 <br><br>
+  I'm a <b>final-year BTech CS student</b>, with a passion for <b>Full-Stack Development</b>, <b>Data Science</b>, and <b>Machine Learning</b>. 🚀 <br><br>
   As a creative problem-solver, I love crafting technical solutions to real-world challenges — whether it's building sleek web apps or diving deep into data to uncover actionable insights. <br><br>
   When I'm not coding, you'll find me exploring <b>cloud tech</b>, reading <b>self-help books</b>, or absorbing lessons from visionary minds. 🌱
 </p>
@@ -54,7 +54,7 @@
 
 ## 🌈 About Me
 
-🎓 I'm currently pursuing a **BTech in Computer Science** with a specialization in **Deep Learning & Web Programming** at Sage University, Indore.
+🎓 I'm currently pursuing a **BTech in Computer Science** focusing in **Deep Learning & Web Programming**.
 
 💡 An avid learner with a deep curiosity for emerging tech and innovation, always exploring new paradigms in software and AI.
 
@@ -62,7 +62,6 @@
 
 📚 Lifelong learner and enthusiastic reader of **self-help books**, driven by continuous growth and knowledge-sharing.
 
-> 🎨 *"Code is my canvas, and data is my palette."*
 
 
 ## 🚀 Projects
