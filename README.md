@@ -218,14 +218,8 @@ An interactive AI-powered **Tic-Tac-Toe game** implementing the Minimax algorith
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=om762&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om762&layout=compact&theme=dark&langs_count=10&hide_border=false" alt="Most Used Languages" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om762&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" height="250"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=om762&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+
 
 <br>
 
