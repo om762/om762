@@ -211,16 +211,23 @@ An interactive AI-powered **Tic-Tac-Toe game** implementing the Minimax algorith
 
 <br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om762&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true" alt="Omprakash's GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om762&theme=radical" alt="GitHub Streak" height="170">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om762&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&custom_title=Omprakash's%20GitHub%20Stats" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om762&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om762&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" height="165">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om762&layout=compact&theme=dark&langs_count=10&hide_border=false" alt="Most Used Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om762&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" height="250"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=om762&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+<br>
 
 ## 🔥 Current Focus & Goals
 
@@ -253,14 +260,14 @@ An interactive AI-powered **Tic-Tac-Toe game** implementing the Minimax algorith
   <p>I'm always excited to connect with fellow developers, innovators, and problem-solvers!</p>
   
   <p align="center">
+    <a href="https://om762.pythonanywhere.com/profile/om762" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="mailto:omprakash824rawat@gmail.com">
       <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/om762" target="_blank">
       <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://om762.pythonanywhere.com/profile/om762" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
   
