@@ -2,8 +2,6 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-
 </br>
 
 <p align="center"> 
@@ -19,7 +17,6 @@
 </br>
 </br>
 
-
 <!-- Profile Picture and Intro -->
 <table align="center">
   <tr>
@@ -30,7 +27,7 @@
       <h1 align="left">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave" />
         Hi there, I'm 
-           <a href="https://github.com/om762" style="background: linear-gradient(to right, #00dfd8, #007cf0); -webkit-background-clip: text; color: transparent; text-decoration: none; font-weight: 800;">
+         <a href="https://github.com/om762" style="background: linear-gradient(to right, #00dfd8, #007cf0); -webkit-background-clip: text; color: transparent; text-decoration: none; font-weight: 800;">
           Omprakash Rawat
         </a>
       </h1>
@@ -48,30 +45,17 @@
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,django,html,css,bootstrap,sqlite,mysql,mongodb,git,github,notion,aws,tensorflow,pytorch,figma,neovim,linux,postman,vscode&perline=8" />
 </p>
 
-## 📖Learning
+# 📖Learning
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,golang,aws,kafka,kubernetes,docker" />
 </p>
+</br>
+</br>
 
----
+# 🌈 About Me
 
-<!-- About Section -->
-<p align="justify">
-  I'm a <b>final-year BTech CS student</b>, with a passion for <b>Full-Stack Development</b>, <b>Data Science</b>, and <b>Machine Learning</b>. 🚀 <br><br>
-  As a creative problem-solver, I love crafting technical solutions to real-world challenges — whether it's building sleek web apps or diving deep into data to uncover actionable insights. <br><br>
-  When I'm not coding, you'll find me exploring <b>cloud tech</b>, reading <b>self-help books</b>, or absorbing lessons from visionary minds. 🌱
-</p>
-
-## 🌈 About Me
-
-🎓 I'm currently pursuing a **BTech in Computer Science** focusing in **Deep Learning & Web Programming**.
-
-💡 An avid learner with a deep curiosity for emerging tech and innovation, always exploring new paradigms in software and AI.
-
-☁️ Certified **AWS Cloud Practitioner**, passionate about building scalable and resilient cloud-native solutions.
-
-📚 Lifelong learner and enthusiastic reader of **self-help books**, driven by continuous growth and knowledge-sharing.
+<p align="justify"> I'm a <b>final-year BTech Computer Science student</b> with a strong passion for <b>Full-Stack Development</b>, <b>Data Science</b>, and <b>Machine Learning</b>. 🚀<br><br> I enjoy crafting technical solutions to real-world challenges — whether it's building sleek, scalable web applications or uncovering insights through data. As a <b>creative problem-solver</b>, I’m constantly seeking new ways to bridge software engineering with AI innovation.<br><br> 🎓 Currently focusing on <b>Deep Learning</b> and <b>Web Programming</b>.<br> ☁️ <b>AWS Cloud Practitioner</b> — passionate about architecting resilient, cloud-native systems.<br> 💡 Naturally curious and an avid explorer of new technologies and software paradigms.<br> 📚 Outside of tech, I enjoy reading <b>self-help books</b> and learning from visionary minds. 🌱 </p>
 
 ## 🚀 Projects
 
@@ -197,4 +181,3 @@ An interactive AI-powered **Tic-Tac-Toe game** using the Minimax algorithm for u
 
 ⭐️ **If you find my work valuable, consider giving it a star!**  
 🤝 Always open to collaboration — let’s build something epic together! 🚀
-
