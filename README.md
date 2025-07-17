@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=200&section=header&text=The%20only%20way%20to%20do%20great%20work%20-nl-is%20to%20love%20what%20you%20do.&fontSize=25&animation=twinkling" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=150&section=header&text=The%20only%20way%20to%20do%20great%20work%20-nl-is%20to%20love%20what%20you%20do.&fontSize=25&animation=twinkling" width="100%">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -197,3 +197,4 @@ An interactive AI-powered **Tic-Tac-Toe game** using the Minimax algorithm for u
 
 ⭐️ **If you find my work valuable, consider giving it a star!**  
 🤝 Always open to collaboration — let’s build something epic together! 🚀
+
