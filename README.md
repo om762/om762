@@ -277,7 +277,4 @@ An interactive AI-powered **Tic-Tac-Toe game** implementing the Minimax algorith
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=150&section=footer&text=Happy Coding&fontSize=25" width="100%">
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=150&section=footer&text=Happy%20Coding&fontSize=25" width="100%">
