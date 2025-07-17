@@ -212,17 +212,22 @@ An interactive AI-powered **Tic-Tac-Toe game** implementing the Minimax algorith
 <br>
 
 ## 📊 GitHub Analytics
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=om762&theme=dark)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=om762&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om762&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&custom_title=Omprakash's%20GitHub%20Stats" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om762&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
+</div>
 
-![GitHub Streak](https://github-profile-trophy.vercel.app/?username=om762&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om762&layout=compact&theme=dark&langs_count=10&hide_border=false" alt="Most Used Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om762&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" height="250"/>
+</div>
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=om762&layout=compact&theme=dark&langs_count=10&hide_border=false)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=om762&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
-![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=om762&theme=github-compact&hide_border=true&area=true)
-
-
+<br>
 
 ## 🔥 Current Focus & Goals
 
@@ -279,5 +284,6 @@ An interactive AI-powered **Tic-Tac-Toe game** implementing the Minimax algorith
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-![Happy Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=150&section=footer&text=Happy%20Coding&fontSize=25 "Happy Coding")
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=150&section=footer&text=Happy Coding&fontSize=25" width="100%">
+</div>
