@@ -30,9 +30,9 @@
       <h1 align="left">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave" />
         Hi there, I'm 
-        <span style="background: linear-gradient(to right, #00dfd8, #007cf0); -webkit-background-clip: text; color: transparent; text-decoration: none; font-weight: 800;">
+           <a href="https://github.com/om762" style="background: linear-gradient(to right, #00dfd8, #007cf0); -webkit-background-clip: text; color: transparent; text-decoration: none; font-weight: 800;">
           Omprakash Rawat
-        </span>
+        </a>
       </h1>
       <blockquote><i>🌟 "Turning ideas into code and data into insights!"</i></blockquote>
     </td>
