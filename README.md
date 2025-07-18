@@ -42,13 +42,14 @@
 # 🧠 Tech Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,django,html,css,bootstrap,sqlite,mysql,mongodb,git,github,notion,aws,tensorflow,pytorch,figma,neovim,linux,postman,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,bootstrap,django,react,pytorch,tensorflow,mongodb,mysql,sqlite,docker,figma,git,github,linux,neovim,notion,postman,vscode,css,html&perline=8
+    " />
 </p>
 
 # 📖Learning
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,golang,aws,kafka,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,golang,aws,kafka,kubernetes" />
 </p>
 </br>
 </br>
