@@ -42,8 +42,7 @@
 # 🧠 Tech Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,bootstrap,django,react,pytorch,tensorflow,mongodb,mysql,sqlite,docker,figma,git,github,linux,neovim,notion,postman,vscode,css,html&perline=8
-    " />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,bootstrap,django,react,pytorch,tensorflow,mongodb,mysql,sqlite,docker,figma,git,github,linux,neovim,notion,postman,vscode,css,html&perline=8"/>
 </p>
 
 # 📖Learning
