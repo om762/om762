@@ -179,17 +179,17 @@ A data science project performing **predictive modeling** and **data visualizati
 # 🌟 Let's Connect & Collaborate!
 
 <div align="center">
-  <h3>Ready to build something amazing together? 🚀</h3>
+  <h3>Ready to build something amazing together?</h3>
   
   <p align="center">
     <a href="https://om762.pythonanywhere.com/profile/om762" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:omprakash824rawat@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/om762" target="_blank">
-      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
   
