@@ -135,7 +135,7 @@ A data science project performing **predictive modeling** and **data visualizati
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Coding Profiles
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=om762&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&custom_title=Omprakash's%20GitHub%20Stats" alt="GitHub Stats" width="350"/>
