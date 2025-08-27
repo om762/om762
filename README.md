@@ -58,7 +58,7 @@
 
 # 🌈 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif">
 I’m a final-year CS student with a solid foundation in problem-solving, backend systems, and data infrastructure.
 
 I enjoy designing solutions to real-world problems — from rapid prototypes to production-ready applications. Currently focusing on data engineering, with the goal of building pipelines that handle workloads at large scale.
