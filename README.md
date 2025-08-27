@@ -138,7 +138,10 @@ A data science project performing **predictive modeling** and **data visualizati
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om762&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&custom_title=Omprakash's%20GitHub%20Stats" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=om762&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&custom_title=Omprakash's%20GitHub%20Stats" alt="GitHub Stats" width="350"/>
+
+<img align="right" alt="leetcode" width="350" src="https://leetcard.jacoblin.cool/om762?theme=nord&font=Fira%20Mono">
+  
 </br>
 </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=om762&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
