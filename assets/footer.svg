@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&amp;display=swap');
+      .footer-status { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 20px; fill: #e8e4de; }
+      .footer-name { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 15px; fill: #555; }
+      .footer-line { stroke: #2a2a2a; stroke-width: 1; }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor {
+        animation: blink 1.2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="120" fill="transparent"/>
+
+  <!-- Top divider line -->
+  <line x1="200" y1="10" x2="600" y2="10" class="footer-line"/>
+
+  <!-- Status text -->
+  <text x="400" y="55" text-anchor="middle" class="footer-status">desk status: still building</text>
+
+  <!-- Blinking cursor -->
+  <rect x="548" y="40" width="2" height="18" fill="#c8ff00" class="cursor" rx="1"/>
+
+  <!-- Name and year -->
+  <text x="400" y="90" text-anchor="middle" class="footer-name">Omprakash Rawat · 2026</text>
+
+  <!-- Tiny coffee ring stain -->
+  <circle cx="680" cy="55" r="15" fill="none" stroke="#222" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="680" cy="55" r="14" fill="none" stroke="#1a1a1a" stroke-width="0.5" opacity="0.2"/>
+</svg>

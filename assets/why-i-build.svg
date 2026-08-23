@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&amp;display=swap');
+      .num { font-family: 'Caveat', 'Segoe Print', 'Bradley Hand', cursive; font-size: 36px; font-weight: 700; fill: #c8ff00; }
+      .principle { font-family: 'Caveat', 'Segoe Print', 'Bradley Hand', cursive; font-size: 24px; fill: #e8e4de; line-height: 1.4; }
+      .small-note { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 14px; fill: #666; }
+      .card-bg { fill: #1e1e1e; rx: 8; }
+      .card-border { fill: none; stroke: #333; stroke-width: 1; rx: 8; }
+      .accent-line { stroke: #c8ff00; stroke-width: 2; stroke-linecap: round; }
+      .doodle { stroke: #555; stroke-width: 1.5; fill: none; stroke-linecap: round; }
+      .cross { stroke: #c8ff00; stroke-width: 1.5; fill: none; stroke-linecap: round; opacity: 0.4; }
+    </style>
+  </defs>
+
+  <!-- Card 1: solve the annoying thing -->
+  <g transform="translate(10, 12) rotate(-1.2, 130, 140)">
+    <rect width="256" height="272" class="card-bg" rx="8"/>
+    <rect width="256" height="272" class="card-border" rx="8"/>
+    <!-- tape mark -->
+    <rect x="100" y="-6" width="56" height="18" rx="3" fill="#c8ff00" opacity="0.15"/>
+    <rect x="100" y="-6" width="56" height="18" rx="3" fill="none" stroke="#c8ff00" stroke-width="0.5" opacity="0.3"/>
+    <!-- number -->
+    <text x="28" y="62" class="num">01</text>
+    <line x1="28" y1="70" x2="68" y2="70" class="accent-line" stroke-dasharray="6 3"/>
+    <!-- principle -->
+    <text x="28" y="112" class="principle">solve the</text>
+    <text x="28" y="144" class="principle">annoying thing</text>
+    <!-- small annotation -->
+    <text x="28" y="200" class="small-note">not the theoretical thing.</text>
+    <text x="28" y="218" class="small-note">the thing that actually</text>
+    <text x="28" y="236" class="small-note">bothers you.</text>
+    <!-- small arrow doodle -->
+    <path d="M 180 245 Q 195 235, 210 248" class="doodle"/>
+    <path d="M 206 242 L 210 248 L 203 248" class="doodle"/>
+  </g>
+
+  <!-- Card 2: hide complexity -->
+  <g transform="translate(290, 8)">
+    <rect width="256" height="280" class="card-bg" rx="8"/>
+    <rect width="256" height="280" class="card-border" rx="8"/>
+    <!-- tape mark -->
+    <rect x="95" y="-6" width="66" height="18" rx="3" fill="#c8ff00" opacity="0.15"/>
+    <rect x="95" y="-6" width="66" height="18" rx="3" fill="none" stroke="#c8ff00" stroke-width="0.5" opacity="0.3"/>
+    <!-- number -->
+    <text x="28" y="62" class="num">02</text>
+    <line x1="28" y1="70" x2="68" y2="70" class="accent-line" stroke-dasharray="6 3"/>
+    <!-- principle -->
+    <text x="28" y="112" class="principle">hide complexity</text>
+    <text x="28" y="144" class="principle">until it's needed</text>
+    <!-- small annotation -->
+    <text x="28" y="200" class="small-note">like Notion does.</text>
+    <text x="28" y="218" class="small-note">features appear when useful,</text>
+    <text x="28" y="236" class="small-note">not because they exist.</text>
+    <!-- small circle doodle -->
+    <circle cx="210" cy="255" r="8" class="doodle"/>
+    <circle cx="210" cy="255" r="3" fill="#c8ff00" opacity="0.3"/>
+  </g>
+
+  <!-- Card 3: make the final thing better -->
+  <g transform="translate(570, 14) rotate(0.8, 130, 140)">
+    <rect width="256" height="274" class="card-bg" rx="8"/>
+    <rect width="256" height="274" class="card-border" rx="8"/>
+    <!-- tape mark -->
+    <rect x="90" y="-6" width="76" height="18" rx="3" fill="#c8ff00" opacity="0.15"/>
+    <rect x="90" y="-6" width="76" height="18" rx="3" fill="none" stroke="#c8ff00" stroke-width="0.5" opacity="0.3"/>
+    <!-- number -->
+    <text x="28" y="62" class="num">03</text>
+    <line x1="28" y1="70" x2="68" y2="70" class="accent-line" stroke-dasharray="6 3"/>
+    <!-- principle -->
+    <text x="28" y="112" class="principle">make the final thing</text>
+    <text x="28" y="144" class="principle">better than</text>
+    <text x="28" y="176" class="principle">the first idea</text>
+    <!-- small annotation -->
+    <text x="28" y="224" class="small-note">don't just make it work.</text>
+    <text x="28" y="242" class="small-note">make it right.</text>
+    <!-- small strikethrough doodle: "good enough" crossed out -->
+    <text x="140" y="242" class="small-note" opacity="0.5">good enough</text>
+    <line x1="138" y1="238" x2="228" y2="238" class="cross"/>
+  </g>
+</svg>

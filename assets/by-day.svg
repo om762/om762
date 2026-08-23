@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&amp;display=swap');
+      .label { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 18px; fill: #e8e4de; text-anchor: middle; }
+      .label-sm { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 14px; fill: #888; text-anchor: middle; }
+      .label-accent { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 18px; fill: #c8ff00; text-anchor: middle; font-weight: 700; }
+      .box { fill: #1e1e1e; stroke: #444; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+      .box-accent { fill: #1e1e1e; stroke: #c8ff00; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+      .arrow { stroke: #666; stroke-width: 1.5; fill: none; stroke-linecap: round; marker-end: url(#arrowhead); }
+      .arrow-accent { stroke: #c8ff00; stroke-width: 1.5; fill: none; stroke-linecap: round; marker-end: url(#arrowhead-accent); }
+      .note { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 13px; fill: #555; }
+      .title { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 15px; fill: #666; letter-spacing: 2px; }
+    </style>
+    <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <path d="M 0 0 L 8 3 L 0 6" fill="none" stroke="#666" stroke-width="1.2"/>
+    </marker>
+    <marker id="arrowhead-accent" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <path d="M 0 0 L 8 3 L 0 6" fill="none" stroke="#c8ff00" stroke-width="1.2"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="260" fill="#141414" rx="10"/>
+
+  <!-- Title annotation -->
+  <text x="400" y="28" class="title" text-anchor="middle" letter-spacing="3">— data engineering —</text>
+
+  <!-- Source systems (multiple small boxes) -->
+  <g transform="translate(60, 55)">
+    <!-- stacked source boxes for "many sources" feel -->
+    <rect x="4" y="4" width="100" height="55" rx="5" class="box" opacity="0.4"/>
+    <rect x="8" y="8" width="100" height="55" rx="5" class="box" opacity="0.6"/>
+    <rect x="0" y="0" width="100" height="55" rx="5" class="box"/>
+    <text x="50" y="25" class="label">different</text>
+    <text x="50" y="45" class="label">sources</text>
+  </g>
+  <text x="110" y="140" class="label-sm">SQL, APIs, files...</text>
+
+  <!-- Arrow 1 -->
+  <path d="M 175 85 Q 210 82, 230 85" class="arrow"/>
+
+  <!-- Migration box -->
+  <g transform="translate(238, 55)">
+    <rect x="0" y="0" width="110" height="55" rx="5" class="box"/>
+    <text x="55" y="25" class="label">migration</text>
+    <text x="55" y="45" class="label-sm">&amp; ingestion</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M 355 85 Q 390 80, 415 85" class="arrow"/>
+
+  <!-- Databricks box (accent) -->
+  <g transform="translate(420, 48)">
+    <rect x="0" y="0" width="130" height="68" rx="6" class="box-accent"/>
+    <text x="65" y="30" class="label-accent">Databricks</text>
+    <text x="65" y="52" class="label-sm">lakehouse</text>
+  </g>
+
+  <!-- Branching arrows -->
+  <path d="M 555 72 Q 580 65, 600 60" class="arrow-accent"/>
+  <path d="M 555 92 Q 580 100, 600 105" class="arrow-accent"/>
+
+  <!-- Spark box -->
+  <g transform="translate(608, 38)">
+    <rect x="0" y="0" width="80" height="42" rx="5" class="box"/>
+    <text x="40" y="28" class="label">Spark</text>
+  </g>
+
+  <!-- SQL box -->
+  <g transform="translate(608, 88)">
+    <rect x="0" y="0" width="80" height="42" rx="5" class="box"/>
+    <text x="40" y="28" class="label">SQL</text>
+  </g>
+
+  <!-- Merging arrows -->
+  <path d="M 694 60 Q 710 72, 718 82" class="arrow"/>
+  <path d="M 694 108 Q 710 96, 718 88" class="arrow"/>
+
+  <!-- Result -->
+  <g transform="translate(722, 65)">
+    <rect x="0" y="0" width="60" height="38" rx="5" fill="none" stroke="#c8ff00" stroke-width="1" stroke-dasharray="4 3"/>
+    <text x="30" y="16" class="label-sm" fill="#c8ff00">useful</text>
+    <text x="30" y="32" class="label-sm" fill="#c8ff00">data</text>
+  </g>
+
+  <!-- Tech labels below -->
+  <g transform="translate(0, 165)">
+    <rect x="50" y="0" width="700" height="1" fill="#2a2a2a"/>
+    <text x="400" y="30" text-anchor="middle" class="label-sm" fill="#666">
+      Databricks · Azure · Azure Data Factory · PySpark · Spark SQL · Python · SQL
+    </text>
+    <!-- small annotation -->
+    <text x="400" y="58" text-anchor="middle" class="note">
+      working on data migration and processing systems in a Data + AI environment
+    </text>
+  </g>
+
+  <!-- Small coffee doodle in corner -->
+  <g transform="translate(745, 200)">
+    <ellipse cx="20" cy="15" rx="14" ry="10" stroke="#333" stroke-width="1" fill="none"/>
+    <path d="M 34 10 Q 42 10, 42 15 Q 42 20, 34 20" stroke="#333" stroke-width="1" fill="none"/>
+    <!-- steam -->
+    <path d="M 16 4 Q 14 -2, 18 -6" stroke="#444" stroke-width="0.8" fill="none" opacity="0.5"/>
+    <path d="M 24 4 Q 22 -4, 26 -8" stroke="#444" stroke-width="0.8" fill="none" opacity="0.5"/>
+  </g>
+</svg>
