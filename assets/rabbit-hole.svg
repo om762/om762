@@ -1,32 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" width="520" height="220">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" width="520" height="220">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&amp;display=swap');
-      .rh-title { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 16px; fill: #c8ff00; font-weight: 700; letter-spacing: 1px; }
-      .rh-question { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 22px; fill: #e8e4de; }
+      .rh-title { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 16px; fill: #c6f135; font-weight: 700; letter-spacing: 1px; }
+      .rh-question { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 22px; fill: #f2ede4; }
       .rh-status { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 15px; fill: #888; }
       .rh-num { font-family: 'Caveat', 'Segoe Print', cursive; font-size: 13px; fill: #555; }
     </style>
-    <!-- dot pattern -->
     <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="10" cy="10" r="0.7" fill="#2a2a2a"/>
+      <circle cx="10" cy="10" r="0.7" fill="#1e2028"/>
     </pattern>
   </defs>
 
   <!-- Card background -->
-  <rect width="520" height="220" fill="#181818" rx="10"/>
+  <rect width="520" height="220" fill="#161b22" rx="10"/>
   <rect width="520" height="220" fill="url(#dots)" rx="10"/>
-  <rect width="520" height="220" fill="none" stroke="#2a2a2a" stroke-width="1" rx="10"/>
+  <rect width="520" height="220" fill="none" stroke="#222" stroke-width="1" rx="10"/>
 
   <!-- Top accent stripe -->
-  <rect x="0" y="0" width="520" height="4" fill="#c8ff00" rx="10" opacity="0.15"/>
+  <rect x="0" y="0" width="520" height="4" fill="#c6f135" rx="10" opacity="0.12"/>
 
   <!-- Header -->
   <text x="30" y="40" class="rh-title">rabbit hole</text>
   <text x="135" y="40" class="rh-num">#04</text>
 
   <!-- Divider -->
-  <line x1="30" y1="52" x2="160" y2="52" stroke="#333" stroke-width="0.8"/>
+  <line x1="30" y1="52" x2="160" y2="52" stroke="#2a2a2a" stroke-width="0.8"/>
 
   <!-- Question -->
   <text x="30" y="90" class="rh-question">how much abstraction is actually</text>
@@ -34,16 +33,15 @@
   <text x="30" y="150" class="rh-question">the system?</text>
 
   <!-- Status -->
-  <text x="30" y="195" class="rh-status">currently investigating →</text>
+  <text x="30" y="195" class="rh-status">currently investigating</text>
 
-  <!-- Small question mark doodle -->
-  <g transform="translate(440, 60)" opacity="0.15">
-    <text font-family="'Caveat', cursive" font-size="80" fill="#c8ff00">?</text>
+  <!-- Question mark doodle -->
+  <g transform="translate(440, 60)" opacity="0.12">
+    <text font-family="'Caveat', cursive" font-size="80" fill="#c6f135">?</text>
   </g>
 
-  <!-- Small spiral doodle -->
+  <!-- Spiral doodle -->
   <g transform="translate(460, 170)">
-    <path d="M 0 0 Q 5 -8, 12 -5 Q 18 -2, 15 5 Q 12 12, 5 10 Q -2 8, 0 2" 
-          stroke="#444" stroke-width="1" fill="none" stroke-linecap="round"/>
+    <path d="M 0 0 Q 5 -8, 12 -5 Q 18 -2, 15 5 Q 12 12, 5 10 Q -2 8, 0 2" stroke="#333" stroke-width="1" fill="none" stroke-linecap="round"/>
   </g>
 </svg>

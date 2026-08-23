@@ -1,10 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="./assets/desk.png" width="100%" alt="Omprakash Rawat's engineering desk — laptop, dual monitors, iPad with handwritten note 'I like solving problems that annoy me', earbuds, cold coffee, sticky notes with ideas, data pipeline sketch showing source → Spark → data flow, and a to-do list: focus, build, iterate." />
-
-<br>
-
-`software · data · systems`
+<img src="./assets/desk.png" width="100%" alt="Top-down illustration of Omprakash Rawat's engineering desk — laptop with code editor, dual monitors showing a data pipeline architecture diagram and wireframe mockups, iPad with handwritten note 'I like solving problems that annoy me', spiral notebook with ideas list, sticky notes, cold coffee, earbuds, and hand-drawn connector arrows. Dark graphite background with lime-green annotations." />
 
 </div>
 
@@ -12,34 +8,40 @@
 
 <sub>currently thinking about →</sub>
 
-### currently
+<table>
+<tr>
+<td>
 
-```
-→ building Vibely
-→ getting deeper into Databricks
-→ learning Agentic AI
+**currently**&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+
+→ building Vibely  
+→ getting deeper into Databricks  
+→ learning Agentic AI  
 → exploring DevOps workflows
-```
 
-<sub>last scribbled · 26.08.23</sub>
+<sub>last scribbled · 23.08.26</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## things I build
 
-> I tend to build things when something starts annoying me.
+*I tend to build things when something starts annoying me.*
 
 <br>
 
+<img src="./assets/icon-blockfit.svg" width="52" align="left" />
+
 ### BlockFit
 
-> Notion couldn't handle the thing I wanted to paste into it.
+> *Notion couldn't handle the thing I wanted to paste into it.*
 
 Long, richly formatted LLM responses can hit Notion's paste payload limit. Splitting them manually destroys formatting — browser text selection and an LLM's native Copy button use different clipboard pipelines.
 
-There was no good existing solution. So I built the missing piece.
-
-`React` · `TypeScript` · `DOMPurify` · `react-window`
+**React · TypeScript · DOMPurify · react-window**
 
 <details>
 <summary>&nbsp;how it works →</summary>
@@ -50,7 +52,7 @@ The interesting part wasn't the UI.
 
 It was understanding what actually happens inside the clipboard:
 
-```
+`
 HTML clipboard data
       ↓
 plain text clipboard data
@@ -64,7 +66,7 @@ format preservation
 safe chunking
       ↓
 virtualized rendering
-```
+`
 
 The splitter has to divide long formatted content without destroying the structure. You can't just split HTML at arbitrary byte boundaries — you need to understand the DOM tree, preserve nesting, and handle edge cases in block vs. inline elements.
 
@@ -78,18 +80,18 @@ I ended up learning more about clipboard formats than I expected.
 
 ---
 
+<img src="./assets/icon-roadmap.svg" width="52" align="left" />
+
 ### Roadmap
 
-> Learning something new shouldn't mean losing track of where you are.
+> *Learning something new shouldn't mean losing track of where you are.*
 
-Started as a personal learning tool. Evolved into a full platform — creating, sharing, following roadmaps, and tracking progress. Community-driven, publicly accessible, built entirely solo.
+Started as a personal learning tool. Evolved into a full platform for creating, sharing, following roadmaps, and tracking progress.
 
 > The difficult part wasn't creating a roadmap.  
 > It was changing one without breaking somebody else's progress.
 
-When an owner edits a published roadmap, users following the old version need to keep their progress intact. The system handles roadmap versioning — version changes don't destroy existing progress, silently overwrite user state, or break old references.
-
-`Django` · `React` · `MySQL` · `custom CSS`
+**Django · React · MySQL · custom CSS**
 
 <details>
 <summary>&nbsp;what made it interesting →</summary>
@@ -103,9 +105,7 @@ The versioning problem sits at the intersection of:
 - progress tracking against a moving target
 - keeping old references valid while supporting new structure
 
-This isn't a CRUD app with a roadmap skin. The data model has to handle version branches, user-progress snapshots, and structural changes without creating orphaned or inconsistent states.
-
-Still maintaining it.
+This isn't a CRUD app with a roadmap skin. The data model handles version branches, user-progress snapshots, and structural changes without creating orphaned or inconsistent states.
 
 </details>
 
@@ -115,51 +115,49 @@ Still maintaining it.
 
 ---
 
+<img src="./assets/icon-vibely.svg" width="52" align="left" />
+
 ### Vibely
 
-> Your likes are data. Why are they still a mess?
+> *Your likes are data. Why are they still a mess?*
 
-Likes and saves across Spotify, YouTube, Pinterest — they all become one giant unsorted pile. Vibely explores using AI to automatically organize saved content into playlists, boards, and collections that actually make sense.
+Likes and saves across Spotify, YouTube, Pinterest — they all become one giant unsorted pile. Vibely explores using AI to organize saved content into playlists, boards, and collections that actually make sense.
 
-`React Native` · `Python` · `PostgreSQL` · `AWS` · `Redis` · `Docker` · `AI/LLMs`
+**React Native · Python · PostgreSQL · AWS · Redis · Docker · AI/LLMs**
 
-[`source`](https://github.com/om762/Vibely)&ensp;·&ensp;`currently cooking 🍳`
+[`source`](https://github.com/om762/Vibely)&ensp;·&ensp;`currently cooking`
 
 ---
 
 ## small things
 
-### Typestrike
+<img src="./assets/icon-typestrike.svg" width="36" align="left" />
 
-> A terminal typing test because leaving the terminal felt unnecessary.
-
-Interactive terminal rendering in Node.js. Zero dependencies. Distributed as a single executable using Node.js SEA.
-
-`Node.js` · `zero dependencies` · `SEA`&ensp;·&ensp;[`source`](https://github.com/om762/Typestrike)&ensp;·&ensp;`released`
+**Typestrike**&ensp;—&ensp;A terminal typing test because leaving the terminal felt unnecessary. Interactive rendering, zero dependencies, distributed as a single executable via Node.js SEA.  
+`Node.js · zero dependencies · SEA`&ensp;·&ensp;[`source`](https://github.com/om762/Typestrike)&ensp;·&ensp;`released`
 
 <br>
 
-### TeamFinder
+<img src="./assets/icon-teamfinder.svg" width="36" align="left" />
 
-> Find people to build with.
-
-`Next.js` · `TypeScript` · `TailwindCSS` · `AWS DynamoDB` · `S3`&ensp;·&ensp;[`live →`](https://team-finder-xi.vercel.app/)&ensp;·&ensp;[`source`](https://github.com/om762/teamFinder)
+**TeamFinder**&ensp;—&ensp;Find people to build with.  
+`Next.js · TypeScript · TailwindCSS · DynamoDB · S3`&ensp;·&ensp;[`live →`](https://team-finder-xi.vercel.app/)&ensp;·&ensp;[`source`](https://github.com/om762/teamFinder)
 
 ---
 
 ## why I build
 
 <div align="center">
-<img src="./assets/why-i-build.svg" width="100%" alt="Three handwritten principles: 01 — solve the annoying thing, not the theoretical thing; 02 — hide complexity until it's needed, like Notion does; 03 — make the final thing better than the first idea, don't just make it work." />
+<img src="./assets/why-i-build.svg" width="100%" alt="Three handwritten sticky notes: 01 — solve the annoying thing, not the theoretical thing, the thing that actually bothers you. 02 — hide complexity until it's needed, features appear when useful, not because they exist. 03 — make the final thing better than the first idea, don't just make it work, make it right." />
 </div>
 
 ---
 
 ## rabbit holes
 
-Things I keep going deeper into instead of sleeping:
+Things I keep going deeper into for no good reason:
 
-`AI agents` · `data systems` · `system design` · `minimal interfaces` · `micro-optimizations` · `building niche products`
+`AI agents`&ensp;·&ensp;`data systems`&ensp;·&ensp;`system design`&ensp;·&ensp;`minimal interfaces`&ensp;·&ensp;`micro-optimizations`&ensp;·&ensp;`niche products`
 
 <br>
 
@@ -172,20 +170,14 @@ Things I keep going deeper into instead of sleeping:
 ## by day
 
 <div align="center">
-<img src="./assets/by-day.svg" width="100%" alt="Data engineering pipeline: different data sources flow through migration and ingestion into Databricks lakehouse, then processed via Spark and SQL into useful data. Technologies: Databricks, Azure, Azure Data Factory, PySpark, Spark SQL, Python, SQL." />
+<img src="./assets/by-day.svg" width="100%" alt="Data engineering pipeline: different data sources flow through migration and ingestion into Databricks lakehouse, then processed via Spark and SQL into useful data." />
 </div>
 
 ---
 
 ## what's on the desk
 
-```
-Python          SQL             JavaScript
-Django          React           PySpark
-Spark           Databricks      Azure
-AWS             Docker          PostgreSQL
-TypeScript      Node.js         React Native
-```
+`Python`&ensp;`SQL`&ensp;`JavaScript`&ensp;`Django`&ensp;`React`&ensp;`PySpark`&ensp;`Spark`&ensp;`Databricks`&ensp;`Azure`&ensp;`AWS`&ensp;`Docker`&ensp;`PostgreSQL`&ensp;`TypeScript`&ensp;`Node.js`&ensp;`React Native`
 
 <sub>no proficiency bars. the projects speak.</sub>
 
@@ -196,21 +188,20 @@ TypeScript      Node.js         React Native
 
 <br>
 
-```
-→ DevOps — pipelines, repos, test plans
-→ Databricks Asset Bundles
+→ DevOps — pipelines, repos, test plans  
+→ Databricks Asset Bundles  
 → Agentic AI — how agents actually work, not just the API calls
-```
 
-What I want to learn next:
+</details>
 
-```
-→ AI function calling
-→ AWS SageMaker
+<details>
+<summary>&ensp;what I want to learn next</summary>
+
+<br>
+
+→ AI function calling  
+→ AWS SageMaker  
 → MLOps
-```
-
-This section grows as I experiment.
 
 </details>
 

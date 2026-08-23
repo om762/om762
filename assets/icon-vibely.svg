@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <style>
+      .line { stroke: #c6f135; stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .line-dim { stroke: #c6f135; stroke-width: 1.5; fill: none; stroke-linecap: round; opacity: 0.4; }
+    </style>
+  </defs>
+  <rect x="8" y="8" width="104" height="104" rx="14" stroke="#c6f135" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <path d="M 40 50 C 40 40, 30 34, 30 44 C 30 52, 40 60, 48 68 C 56 60, 66 52, 66 44 C 66 34, 56 40, 56 50" class="line" stroke-width="1.8"/>
+  <path d="M 52 48 L 52 40 L 60 40 L 64 44 L 92 44 L 92 82 L 52 82 L 52 62" class="line"/>
+  <line x1="52" y1="48" x2="64" y2="48" class="line-dim"/>
+  <line x1="60" y1="58" x2="84" y2="58" class="line-dim"/>
+  <line x1="60" y1="66" x2="80" y2="66" class="line-dim"/>
+  <line x1="60" y1="74" x2="76" y2="74" class="line-dim"/>
+  <g transform="translate(84, 32)" opacity="0.5">
+    <path d="M 4 0 L 5 3 L 8 4 L 5 5 L 4 8 L 3 5 L 0 4 L 3 3 Z" stroke="#c6f135" stroke-width="0.8" fill="none"/>
+  </g>
+  <g transform="translate(28, 72)" opacity="0.35">
+    <path d="M 3 0 L 4 2 L 6 3 L 4 4 L 3 6 L 2 4 L 0 3 L 2 2 Z" stroke="#c6f135" stroke-width="0.6" fill="none"/>
+  </g>
+</svg>

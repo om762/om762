@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <style>
+      .line { stroke: #c6f135; stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+  <rect x="8" y="8" width="104" height="104" rx="14" stroke="#c6f135" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <circle cx="44" cy="42" r="8" class="line"/>
+  <path d="M 28 78 C 28 62, 36 56, 44 56 C 52 56, 60 62, 60 78" class="line"/>
+  <circle cx="72" cy="42" r="8" class="line" opacity="0.7"/>
+  <path d="M 56 78 C 56 62, 64 56, 72 56 C 80 56, 88 62, 88 78" class="line" opacity="0.7"/>
+  <line x1="52" y1="48" x2="64" y2="48" stroke="#c6f135" stroke-width="1" stroke-dasharray="3 3" opacity="0.4"/>
+  <line x1="96" y1="32" x2="96" y2="42" stroke="#c6f135" stroke-width="1.5" opacity="0.3" stroke-linecap="round"/>
+  <line x1="91" y1="37" x2="101" y2="37" stroke="#c6f135" stroke-width="1.5" opacity="0.3" stroke-linecap="round"/>
+</svg>
