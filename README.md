@@ -14,12 +14,7 @@
 
 <br><br>
 
-**currently**
-
-→ building Vibely
-→ getting deeper into Databricks
-→ learning Agentic AI
-→ exploring DevOps workflows
+<img src="./assets/leftpart.svg" width="100%"/>
 
 <br>
 
@@ -34,7 +29,7 @@
 
 <br>
 
-<img src="./assets/icon-blockfit.svg" width="52" align="left" />
+<img src="./assets/icon-blockfit.svg" width="52" />
 
 ### BlockFit
 
