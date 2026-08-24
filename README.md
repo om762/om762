@@ -6,26 +6,27 @@
 
 <br>
 
-<sub>currently thinking about →</sub>
-
 <table>
 <tr>
-<td>
+<td width="24%" valign="top">
 
-**currently**&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<sub>currently thinking about →</sub>
 
-→ building Vibely  
-→ getting deeper into Databricks  
-→ learning Agentic AI  
+<br><br>
+
+**currently**
+
+→ building Vibely
+→ getting deeper into Databricks
+→ learning Agentic AI
 → exploring DevOps workflows
+
+<br>
 
 <sub>last scribbled · 23.08.26</sub>
 
 </td>
-</tr>
-</table>
-
----
+<td width="76%" valign="top">
 
 ## things I build
 
@@ -43,40 +44,9 @@ Long, richly formatted LLM responses can hit Notion's paste payload limit. Split
 
 **React · TypeScript · DOMPurify · react-window**
 
-<details>
-<summary>&nbsp;how it works →</summary>
-
-<br>
-
-The interesting part wasn't the UI.
-
-It was understanding what actually happens inside the clipboard:
-
-`
-HTML clipboard data
-      ↓
-plain text clipboard data
-      ↓
-browser clipboard APIs
-      ↓
-OS clipboard behavior
-      ↓
-format preservation
-      ↓
-safe chunking
-      ↓
-virtualized rendering
-`
-
-The splitter has to divide long formatted content without destroying the structure. You can't just split HTML at arbitrary byte boundaries — you need to understand the DOM tree, preserve nesting, and handle edge cases in block vs. inline elements.
-
-I ended up learning more about clipboard formats than I expected.
-
-</details>
-
-<br>
-
 [`live →`](https://blockfit-om762.vercel.app)&ensp;·&ensp;[`source`](https://github.com/om762/BlockFit)
+
+<br clear="left">
 
 ---
 
@@ -88,30 +58,14 @@ I ended up learning more about clipboard formats than I expected.
 
 Started as a personal learning tool. Evolved into a full platform for creating, sharing, following roadmaps, and tracking progress.
 
-> The difficult part wasn't creating a roadmap.  
+> The difficult part wasn't creating a roadmap.
 > It was changing one without breaking somebody else's progress.
 
 **Django · React · MySQL · custom CSS**
 
-<details>
-<summary>&nbsp;what made it interesting →</summary>
-
-<br>
-
-The versioning problem sits at the intersection of:
-
-- complex relational data modeling
-- state consistency across users
-- progress tracking against a moving target
-- keeping old references valid while supporting new structure
-
-This isn't a CRUD app with a roadmap skin. The data model handles version branches, user-progress snapshots, and structural changes without creating orphaned or inconsistent states.
-
-</details>
-
-<br>
-
 [`live →`](https://om762.pythonanywhere.com)&ensp;·&ensp;[`source`](https://github.com/om762/Roadmap)&ensp;·&ensp;`still maintaining`
+
+<br clear="left">
 
 ---
 
@@ -125,85 +79,121 @@ Likes and saves across Spotify, YouTube, Pinterest — they all become one giant
 
 **React Native · Python · PostgreSQL · AWS · Redis · Docker · AI/LLMs**
 
-[`source`](https://github.com/om762/Vibely)&ensp;·&ensp;`currently cooking`
+[`source`](https://github.com/om762/Vibely)&ensp;·&ensp;`currently cooking` 🍳
+
+<br clear="left">
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ## small things
 
 <img src="./assets/icon-typestrike.svg" width="36" align="left" />
 
-**Typestrike**&ensp;—&ensp;A terminal typing test because leaving the terminal felt unnecessary. Interactive rendering, zero dependencies, distributed as a single executable via Node.js SEA.  
-`Node.js · zero dependencies · SEA`&ensp;·&ensp;[`source`](https://github.com/om762/Typestrike)&ensp;·&ensp;`released`
+**Typestrike**
 
-<br>
+A terminal typing test because leaving the terminal felt unnecessary. Interactive rendering, zero dependencies, distributed as a single executable via Node.js SEA.
+
+`Node.js · zero dependencies · SEA`
+
+[`source`](https://github.com/om762/Typestrike)&ensp;·&ensp;`released`
+
+<br clear="left"><br>
 
 <img src="./assets/icon-teamfinder.svg" width="36" align="left" />
 
-**TeamFinder**&ensp;—&ensp;Find people to build with.  
-`Next.js · TypeScript · TailwindCSS · DynamoDB · S3`&ensp;·&ensp;[`live →`](https://team-finder-xi.vercel.app/)&ensp;·&ensp;[`source`](https://github.com/om762/teamFinder)
+**TeamFinder**
 
----
+Find people to build with.
+
+`Next.js · TypeScript · TailwindCSS · DynamoDB · S3`
+
+[`live →`](https://team-finder-xi.vercel.app/)&ensp;·&ensp;[`source`](https://github.com/om762/teamFinder)
+
+<br clear="left">
+
+</td>
+<td width="34%" valign="top">
 
 ## why I build
 
-<div align="center">
-<img src="./assets/why-i-build.svg" width="100%" alt="Three handwritten sticky notes: 01 — solve the annoying thing, not the theoretical thing, the thing that actually bothers you. 02 — hide complexity until it's needed, features appear when useful, not because they exist. 03 — make the final thing better than the first idea, don't just make it work, make it right." />
-</div>
+**01** solve the annoying thing, not the theoretical thing
+**02** hide complexity until it's needed
+**03** make the final thing better than the first idea
 
----
+<br>
 
 ## rabbit holes
 
 Things I keep going deeper into for no good reason:
 
-`AI agents`&ensp;·&ensp;`data systems`&ensp;·&ensp;`system design`&ensp;·&ensp;`minimal interfaces`&ensp;·&ensp;`micro-optimizations`&ensp;·&ensp;`niche products`
+`AI agents`&ensp;`data systems`&ensp;`system design`
+`minimal interfaces`&ensp;`micro-optimizations`&ensp;`niche products`
 
 <br>
 
-<div align="center">
-<img src="./assets/rabbit-hole.svg" width="65%" alt="Notebook card: rabbit hole #04 — how much abstraction is actually useful before it starts hiding the system? Currently investigating." />
-</div>
+> **rabbit hole #04**
+> how much abstraction is actually useful before it starts hiding the system?
+>
+> <sub>currently investigating →</sub>
 
----
+</td>
+<td width="33%" valign="top">
 
 ## by day
 
-<div align="center">
-<img src="./assets/by-day.svg" width="100%" alt="Data engineering pipeline: different data sources flow through migration and ingestion into Databricks lakehouse, then processed via Spark and SQL into useful data." />
-</div>
+`sources` → `ingestion` → `processing` → `lakehouse` → `serving`
 
----
+Databricks · Azure · Azure Data Factory
+PySpark · Spark · Spark SQL · Python · SQL
+
+data migration & data engineering in a Data + AI environment.
+
+<br>
 
 ## what's on the desk
 
-`Python`&ensp;`SQL`&ensp;`JavaScript`&ensp;`Django`&ensp;`React`&ensp;`PySpark`&ensp;`Spark`&ensp;`Databricks`&ensp;`Azure`&ensp;`AWS`&ensp;`Docker`&ensp;`PostgreSQL`&ensp;`TypeScript`&ensp;`Node.js`&ensp;`React Native`
+`Python`&ensp;`SQL`&ensp;`PySpark`&ensp;`Databricks`
+`Spark`&ensp;`Django`&ensp;`React`&ensp;`Azure`
+`AWS`&ensp;`TypeScript`&ensp;`Docker`&ensp;`PostgreSQL`
 
 <sub>no proficiency bars. the projects speak.</sub>
 
+</td>
+</tr>
+</table>
+
 ---
 
-<details>
-<summary>&ensp;things I'm figuring out</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+**→ things I'm figuring out**
 
-→ DevOps — pipelines, repos, test plans  
-→ Databricks Asset Bundles  
+→ DevOps — pipelines, repos, test plans
+→ Databricks Asset Bundles
 → Agentic AI — how agents actually work, not just the API calls
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary>&ensp;what I want to learn next</summary>
+**→ what I want to learn next**
 
-<br>
-
-→ AI function calling  
-→ AWS SageMaker  
+→ AI function calling
+→ AWS SageMaker
 → MLOps
 
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -211,8 +201,6 @@ Things I keep going deeper into for no good reason:
 
 [`GitHub`](https://github.com/om762)&ensp;·&ensp;[`LinkedIn`](https://www.linkedin.com/in/om762/)&ensp;·&ensp;[`Website`](https://om762.pythonanywhere.com)&ensp;·&ensp;[`X`](https://x.com/OmPrakash_762)
 
----
+<br>
 
-<div align="center">
-<img src="./assets/footer.svg" width="60%" alt="desk status: still building — Omprakash Rawat, 2026" />
-</div>
+<img src="./assets/footer.svg" width="100000px" alt="Top-down illustration of Omprakash Rawat's engineering desk — laptop with code editor, dual monitors showing a data pipeline architecture diagram and wireframe mockups, iPad with handwritten note 'I like solving problems that annoy me', spiral notebook with ideas list, sticky notes, cold coffee, earbuds, and hand-drawn connector arrows. Dark graphite background with lime-green annotations." />
