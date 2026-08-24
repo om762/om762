@@ -4,21 +4,16 @@
 
 </div>
 
-<br>
-
 <table>
 <tr>
 <td width="24%" valign="top">
 
 <sub>currently thinking about →</sub>
 
-<br><br>
 
 <img src="./assets/leftpart.svg" width="100%"/>
 
 <br>
-
-<sub>last scribbled · 23.08.26</sub>
 
 </td>
 <td width="76%" valign="top">
