@@ -20,7 +20,7 @@ A terminal typing test because leaving the terminal felt unnecessary. Interactiv
 
 `Node.js · zero dependencies · SEA`
 
-[`source`](https://github.com/om762/Typestrike)&ensp;·&ensp;`released`
+[`source`](https://github.com/om762/Typestrike)&ensp;·&ensp;[`released`](https://github.com/om762/Typestrike/releases)
 
 <br clear="left"><br>
 
