@@ -42,34 +42,9 @@ Find people to build with.
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**→ things I'm figuring out**
-
-→ DevOps — pipelines, repos, test plans
-→ Databricks Asset Bundles
-→ Agentic AI — how agents actually work, not just the API calls
-
-</td>
-<td width="50%" valign="top">
-
-**→ what I want to learn next**
-
-→ AI function calling
-→ AWS SageMaker
-→ MLOps
-
-</td>
-</tr>
-</table>
-
----
-
 ## elsewhere
 
-[`GitHub`](https://github.com/om762)&ensp;·&ensp;[`LinkedIn`](https://www.linkedin.com/in/om762/)&ensp;·&ensp;[`Website`](https://om762.pythonanywhere.com)&ensp;·&ensp;[`X`](https://x.com/OmPrakash_762)
+[`Leetcode`](https://leetcode.com/om762)&ensp;·&ensp;[`LinkedIn`](https://www.linkedin.com/in/om762/)&ensp;·&ensp;[`Website`](https://om762.pythonanywhere.com)&ensp;·&ensp;[`X`](https://x.com/OmPrakash_762)&ensp;·&ensp;[`Substack`](https://substack.com/@om762)
 
 <br>
 
