@@ -37,28 +37,6 @@ Find people to build with.
 <br clear="left">
 
 </td>
-<td width="33%" valign="top">
-
-## by day
-
-`sources` → `ingestion` → `processing` → `lakehouse` → `serving`
-
-Databricks · Azure · Azure Data Factory
-PySpark · Spark · Spark SQL · Python · SQL
-
-data migration & data engineering in a Data + AI environment.
-
-<br>
-
-## what's on the desk
-
-`Python`&ensp;`SQL`&ensp;`PySpark`&ensp;`Databricks`
-`Spark`&ensp;`Django`&ensp;`React`&ensp;`Azure`
-`AWS`&ensp;`TypeScript`&ensp;`Docker`&ensp;`PostgreSQL`
-
-<sub>no proficiency bars. the projects speak.</sub>
-
-</td>
 </tr>
 </table>
 
