@@ -45,5 +45,3 @@ Find people to build with.
 [`Leetcode`](https://leetcode.com/om762)&ensp;·&ensp;[`LinkedIn`](https://www.linkedin.com/in/om762/)&ensp;·&ensp;[`Website`](https://om762.pythonanywhere.com)&ensp;·&ensp;[`X`](https://x.com/OmPrakash_762)&ensp;·&ensp;[`Substack`](https://substack.com/@om762)
 
 <br>
-
-<img src="./assets/footer.svg" width="100000px" alt="Top-down illustration of Omprakash Rawat's engineering desk — laptop with code editor, dual monitors showing a data pipeline architecture diagram and wireframe mockups, iPad with handwritten note 'I like solving problems that annoy me', spiral notebook with ideas list, sticky notes, cold coffee, earbuds, and hand-drawn connector arrows. Dark graphite background with lime-green annotations." />
