@@ -1,21 +1,9 @@
- <div align="center">
-
 <img src="./assets/desk.png" width="100%" alt="Top-down illustration of Omprakash Rawat's engineering desk — laptop with code editor, dual monitors showing a data pipeline architecture diagram and wireframe mockups, iPad with handwritten note 'I like solving problems that annoy me', spiral notebook with ideas list, sticky notes, cold coffee, earbuds, and hand-drawn connector arrows. Dark graphite background with lime-green annotations." />
-
-<!-- <img
-  src="https://gitascii.com/api/om762"
+<img
+  src="https://gitascii.com/api/om762?v=1788317413515"
   alt="GitAscii Widget"
   width="100%"
 />
-<img src="assets/1part.svg" width="100%"/> -->
-
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/om762?v=1788317413515"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
 
 ---
 
