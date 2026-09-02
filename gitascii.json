@@ -1,4 +1,5 @@
 {
+  "username": "om762",
   "widgets": [
     {
       "instanceId": "widget_1788316435889",
@@ -6,7 +7,7 @@
       "name": "Codeweb-retro-grid Widget",
       "position": {
         "x": 0,
-        "y": 224
+        "y": 256
       },
       "size": {
         "width": 800,
@@ -58,9 +59,9 @@
         "hideDecorations": false,
         "hideBorder": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
-      "zIndex": 2
+      "zIndex": 1
     },
     {
       "instanceId": "widget_1788316438966",
@@ -72,7 +73,7 @@
       },
       "size": {
         "width": 800,
-        "height": 0
+        "height": 256
       },
       "config": {
         "aboutTag": "WHO AM I",
@@ -87,9 +88,9 @@
         "card2Text": "Built With Intent",
         "card2GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsOGIzbncwMnlqMjl3dTVwYndsaWsydzhzd2hhZTRsNGM5bXBueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
-      "zIndex": 3
+      "zIndex": 2
     }
   ],
   "globalStyles": {
@@ -103,5 +104,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
