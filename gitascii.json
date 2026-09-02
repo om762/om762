@@ -6,7 +6,7 @@
       "name": "Codeweb-retro-grid Widget",
       "position": {
         "x": 0,
-        "y": 0
+        "y": 224
       },
       "size": {
         "width": 800,
@@ -72,7 +72,7 @@
       },
       "size": {
         "width": 800,
-        "height": 216
+        "height": 0
       },
       "config": {
         "aboutTag": "WHO AM I",
