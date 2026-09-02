@@ -7,7 +7,7 @@
       "name": "Codeweb-retro-grid Widget",
       "position": {
         "x": 0,
-        "y": 256
+        "y": 224
       },
       "size": {
         "width": 800,
@@ -56,10 +56,10 @@
           "dynamodb",
           "scala"
         ],
-        "hideDecorations": false,
+        "hideDecorations": true,
         "hideBorder": true
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 1
     },
@@ -73,7 +73,7 @@
       },
       "size": {
         "width": 800,
-        "height": 256
+        "height": 224
       },
       "config": {
         "aboutTag": "WHO AM I",
@@ -86,9 +86,11 @@
         "card1GifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdrcGN2cHEzb2JlNG9pOHNibHEwOTZ1a3d4ZjY1bHl2b3h6cGdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QdQ0LRg2YOlClNziBd/giphy.gif",
         "card2Icon": "Workflow",
         "card2Text": "Built With Intent",
-        "card2GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsOGIzbncwMnlqMjl3dTVwYndsaWsydzhzd2hhZTRsNGM5bXBueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+        "card2GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsOGIzbncwMnlqMjl3dTVwYndsaWsydzhzd2hhZTRsNGM5bXBueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif",
+        "hideDecorations": true,
+        "hideBorder": true
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 2
     }
