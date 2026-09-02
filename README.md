@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/om762?v=1788318278639"
+    src="https://gitascii.com/api/om762?v=1788318425965"
     alt="GitAscii Widget"
     width="100%"
   />
