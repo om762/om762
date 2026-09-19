@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.credential.net/profile/om762/wallet">
-        <img src="https://cdn.prod.website-files.com/65f2558d9f3ac6c64f1b8bb1/661b0755122a164fb64071dd_Logo.web"/>
+        <img src="assets/accredible-logo.png"/>
       </a><br/>
       <sub><b>Credentials</b></sub>
     </td>
