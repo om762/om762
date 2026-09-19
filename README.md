@@ -15,56 +15,16 @@
       <sub><b>LeetCode</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/om762/">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&color=0A66C2&bg=0d1117&shape=circle" width="40" height="40" alt="LinkedIn"/>
+      <a href="https://www.geeksforgeeks.org/profile/om762">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=geeksforgeeks&size=40&color=2F8D46&bg=0d1117&shape=circle" width="40" height="40" alt="GeeksforGeeks"/>
       </a><br/>
-      <sub><b>LinkedIn</b></sub>
+      <sub><b>GeeksforGeeks</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://om762.pythonanywhere.com">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=googlechrome&size=40&color=4285F4&bg=0d1117&shape=circle" width="40" height="40" alt="Website"/>
+      <a href="https://www.naukri.com/code360/profile/OmprakashRawat">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=codingninjas&size=40&color=F96D00&bg=0d1117&shape=circle" width="40" height="40" alt="Code360"/>
       </a><br/>
-      <sub><b>Website</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://x.com/OmPrakash_762">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=40&color=ffffff&bg=0d1117&shape=circle" width="40" height="40" alt="X"/>
-      </a><br/>
-      <sub><b>X</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://substack.com/@om762">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=substack&size=40&color=FF6719&bg=0d1117&shape=circle" width="40" height="40" alt="Substack"/>
-      </a><br/>
-      <sub><b>Substack</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://bsky.app/profile/om762.bsky.social">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=bluesky&size=40&color=0285FF&bg=0d1117&shape=circle" width="40" height="40" alt="Bluesky"/>
-      </a><br/>
-      <sub><b>Bluesky</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://medium.com/@om762">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=medium&size=40&color=ffffff&bg=0d1117&shape=circle" width="40" height="40" alt="Medium"/>
-      </a><br/>
-      <sub><b>Medium</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://pinterest.com/om762">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=pinterest&size=40&color=E60023&bg=0d1117&shape=circle" width="40" height="40" alt="Pinterest"/>
-      </a><br/>
-      <sub><b>Pinterest</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.quora.com/profile/Om762">
-        <img src="https://www.readmecodegen.com/api/social-icon?name=quora&size=40&color=B92B27&bg=0d1117&shape=circle" width="40" height="40" alt="Quora"/>
-      </a><br/>
-      <sub><b>Quora</b></sub>
+      <sub><b>Code360</b></sub>
     </td>
     <td align="center" width="96">
       <a href="https://stackoverflow.com/users/28134674">
@@ -73,10 +33,68 @@
       <sub><b>Stack Overflow</b></sub>
     </td>
     <td align="center" width="96">
+      <a href="https://www.credential.net/profile/om762/wallet">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=credly&size=40&color=FF6B00&bg=0d1117&shape=circle" width="40" height="40" alt="Credentials"/>
+      </a><br/>
+      <sub><b>Credentials</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/om762/">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&color=0A66C2&bg=0d1117&shape=circle" width="40" height="40" alt="LinkedIn"/>
+      </a><br/>
+      <sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://x.com/OmPrakash_762">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=40&color=ffffff&bg=0d1117&shape=circle" width="40" height="40" alt="X"/>
+      </a><br/>
+      <sub><b>X</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://medium.com/@om762">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=medium&size=40&color=ffffff&bg=0d1117&shape=circle" width="40" height="40" alt="Medium"/>
+      </a><br/>
+      <sub><b>Medium</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://substack.com/@om762">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=substack&size=40&color=FF6719&bg=0d1117&shape=circle" width="40" height="40" alt="Substack"/>
+      </a><br/>
+      <sub><b>Substack</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.quora.com/profile/Om762">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=quora&size=40&color=B92B27&bg=0d1117&shape=circle" width="40" height="40" alt="Quora"/>
+      </a><br/>
+      <sub><b>Quora</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://bsky.app/profile/om762.bsky.social">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=bluesky&size=40&color=0285FF&bg=0d1117&shape=circle" width="40" height="40" alt="Bluesky"/>
+      </a><br/>
+      <sub><b>Bluesky</b></sub>
+    </td>
+    <td align="center" width="96">
       <a href="https://mastodon.social/@om762">
         <img src="https://www.readmecodegen.com/api/social-icon?name=mastodon&size=40&color=6364FF&bg=0d1117&shape=circle" width="40" height="40" alt="Mastodon"/>
       </a><br/>
       <sub><b>Mastodon</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://pinterest.com/om762">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=pinterest&size=40&color=E60023&bg=0d1117&shape=circle" width="40" height="40" alt="Pinterest"/>
+      </a><br/>
+      <sub><b>Pinterest</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://om762.pythonanywhere.com">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=googlechrome&size=40&color=4285F4&bg=0d1117&shape=circle" width="40" height="40" alt="Website"/>
+      </a><br/>
+      <sub><b>Website</b></sub>
     </td>
     <td align="center" width="96">
       <a href="mailto:omprakash824rawat@gmail.com">
